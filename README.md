@@ -4,4 +4,4 @@
 Demo is built with following features:
 - Adjustable scale for temperature range (-40,300) with **autoscale** option
 - Multiple **color pallettes** for thermal image drawing. Pallettes are implemented as lookup tables, generated usign python script (https://). Following pallettes are implemented:
-![Screenshot](https://github.com/OptoLAB/MLX90640-Thermal-Camera-STM32-STemWin/pallette/pallettes.tif)
+![Screenshot](https://github.com/OptoLAB/MLX90640-Thermal-Camera-STM32-STemWin/pallette/pallettes.png)
