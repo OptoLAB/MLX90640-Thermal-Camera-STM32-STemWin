@@ -9,9 +9,11 @@ This is a demo project for [Melexis MLX90640](https://www.melexis.com/en/product
  - [STemWin](https://www.st.com/en/embedded-software/stemwin.html) GUI library (SEGGER's emWin library for STM32)
  
 **Notice:** MLX90640 sensor respond on all supported refresh rates (0.5-64Hz)
+
 More info can be found [here](https://www.optolab.ftn.uns.ac.rs/index.php/education/project-base/260-mlx90640-thermal-camera)
 
 Demo video on [youtube](https://www.youtube.com/watch?v=8gLbl-SsmXU) 
+
 ## Demo features:
 Demo is built with following features:
 - Adjustable scale for temperature range (-40,300) with **autoscale** option
