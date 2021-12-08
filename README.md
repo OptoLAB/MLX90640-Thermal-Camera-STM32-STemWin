@@ -32,3 +32,5 @@ Demo is built with following features:
 <img src="https://github.com/OptoLAB/MLX90640-Thermal-Camera-STM32-STemWin/blob/main/samples/IMG10.BMP" width="144"/>
 <img src="https://github.com/OptoLAB/MLX90640-Thermal-Camera-STM32-STemWin/blob/main/samples/IMG11.BMP" width="144"/>
 </p>
+
+- Other paramaters such as pixel size, image position, number of interpolation points, new color pallettes, MLX90640 data aqusition configuratio (i.e. refresh rate) can be set inside source code.
