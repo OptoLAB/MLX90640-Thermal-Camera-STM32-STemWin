@@ -4,6 +4,7 @@
 This is a demo project for [Melexis MLX90640](https://www.melexis.com/en/product/mlx90640/far-infrared-thermal-sensor-array) thermal image sensor using [IR GRID 3 Click](https://www.mikroe.com/ir-grid-3-click) board from Mikroelektronika. Project was built using following ecosystem:
 
  - [mikromedia 7 for STM32F7](https://www.mikroe.com/mikromedia-7-stm32f7) development board by Mikroelektronika with STM32F746ZG mcu.
+ - [mikroProg](https://www.mikroe.com/mikroprog-stm32) v1.5. Mikromedia 7 board has onboard mikroProg programmer and debugger.
  - [STM32CubeMX](https://www.st.com/en/development-tools/stm32cubemx.html?sc=stm32cubemx) 5.6.0 initialization code generator by STMicroelectronics.
  - [STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html) 1.3.0 Integrated Development Environment for STM32.
  - [STemWin](https://www.st.com/en/embedded-software/stemwin.html) GUI library (SEGGER's emWin library for STM32)
