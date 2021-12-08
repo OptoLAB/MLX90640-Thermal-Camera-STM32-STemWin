@@ -1,5 +1,15 @@
 # MLX90640-Thermal-Camera-STM32-STemWin
  Demo for Melexis MLX90640 sensor using mikromedia 7 for STM32F7 board
+## About project
+This is a demo project for [Melexis MLX90640](https://www.melexis.com/en/product/mlx90640/far-infrared-thermal-sensor-array) thermal image sensor using [IR GRID 3 Click](https://www.mikroe.com/ir-grid-3-click) board from Mikroelektronika. Project was built using following ecosystem:
+
+ - [mikromedia 7 for STM32F7](https://www.mikroe.com/mikromedia-7-stm32f7) development board by Mikroelektronika with STM32F746ZG mcu.
+ - [STM32CubeMX](https://www.st.com/en/development-tools/stm32cubemx.html?sc=stm32cubemx) 5.6.0 initialization code generator by STMicroelectronics.
+ - [STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html) 1.3.0 Integrated Development Environment for STM32.
+ 
+More info can be found [here](https://www.optolab.ftn.uns.ac.rs/index.php/education/project-base/260-mlx90640-thermal-camera)
+
+Demo video on [youtube](https://www.youtube.com/watch?v=8gLbl-SsmXU) 
 ## Demo features:
 Demo is built with following features:
 - Adjustable scale for temperature range (-40,300) with **autoscale** option
@@ -16,7 +26,7 @@ Demo is built with following features:
 <img src="https://github.com/OptoLAB/MLX90640-Thermal-Camera-STM32-STemWin/blob/main/interpolation%20samples/IMG0.BMP" width="288"/>
 </p>
 
-- **Recording** bimap images on SD card. Bellow are samples captured using different color pallettes:
+- **Recording** bimap images on SD card. Bellow are samples (interpolated) captured using different color pallettes:
 
 <p align="center">
 <img src="https://github.com/OptoLAB/MLX90640-Thermal-Camera-STM32-STemWin/blob/main/samples/IMG0.BMP" width="144"/>
