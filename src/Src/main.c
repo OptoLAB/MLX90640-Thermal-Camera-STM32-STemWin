@@ -239,8 +239,7 @@ int main(void)
 						  k++;
 					  }
 				  }
-	//			  if(status)
-//				  {
+
 				  if(getAutoscale())
 				  {
 					  if(varMaxTempVal==varMinTempVal)varMaxTempVal+=1; // to avoid zero division
@@ -248,7 +247,7 @@ int main(void)
 					  setMinTemp(varMinTempVal);
 					  updateLabels(hWin, varMinTempVal, varMaxTempVal);
 				  }
-	//			  }
+				  
 				  if(getInterpolate())interpolateBilinear(PX_X*INT_POINTS, PX_Y*INT_POINTS);
 				  invalidateImage(hWin);	//triggers image drawing
 				  break;
