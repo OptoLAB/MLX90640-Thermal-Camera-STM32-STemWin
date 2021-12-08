@@ -6,7 +6,9 @@ This is a demo project for [Melexis MLX90640](https://www.melexis.com/en/product
  - [mikromedia 7 for STM32F7](https://www.mikroe.com/mikromedia-7-stm32f7) development board by Mikroelektronika with STM32F746ZG mcu.
  - [STM32CubeMX](https://www.st.com/en/development-tools/stm32cubemx.html?sc=stm32cubemx) 5.6.0 initialization code generator by STMicroelectronics.
  - [STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html) 1.3.0 Integrated Development Environment for STM32.
+ - [STemWin](https://www.st.com/en/embedded-software/stemwin.html) GUI library (SEGGER's emWin library for STM32)
  
+**Notice:** MLX90640 sensor respond on all supported refresh rates (0.5-64Hz)
 More info can be found [here](https://www.optolab.ftn.uns.ac.rs/index.php/education/project-base/260-mlx90640-thermal-camera)
 
 Demo video on [youtube](https://www.youtube.com/watch?v=8gLbl-SsmXU) 
