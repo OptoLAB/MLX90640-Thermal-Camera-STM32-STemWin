@@ -21,7 +21,7 @@ Demo is built with following features:
 - Multiple **color pallettes** for thermal image drawing. Pallettes are implemented as lookup tables, generated usign [python script] (https://). Following pallettes are implemented:
 
 <p align="center">
-<img src="https://github.com/OptoLAB/MLX90640-Thermal-Camera-STM32-STemWin/blob/main/pallette/pallettes.png" width="500"/>
+<img src="https://github.com/OptoLAB/MLX90640-Thermal-Camera-STM32-STemWin/blob/main/pallette/color_pallettes.png" width="500"/>
 </p>
 
 - Realtime image interpolation using **bilinear interpolation**. Following samples ilustrate raw (left) and interpolated image (right):
