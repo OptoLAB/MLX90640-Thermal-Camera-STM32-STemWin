@@ -7,8 +7,9 @@ Demo is built with following features:
 <p align="center">
 <img src="https://github.com/OptoLAB/MLX90640-Thermal-Camera-STM32-STemWin/blob/main/pallette/pallettes.png" width="500"/>
 </p>
-- Image interpolation using **bilinear interpolation**. Following samples ilustrate raw (left) and interpolated image (right):
+- Realtime image interpolation using **bilinear interpolation**. Following samples ilustrate raw (left) and interpolated image (right):
 <p align="center">
-<img src="https://github.com/OptoLAB/MLX90640-Thermal-Camera-STM32-STemWin/blob/main/interpolation%20samples/IMG0.BMP" width="288"/>
 <img src="https://github.com/OptoLAB/MLX90640-Thermal-Camera-STM32-STemWin/blob/main/interpolation%20samples/IMG1.BMP" width="288"/>
+<img src="https://github.com/OptoLAB/MLX90640-Thermal-Camera-STM32-STemWin/blob/main/interpolation%20samples/IMG0.BMP" width="288"/>
 </p>
+- **Capturing** bimap images on SD card. Bellow are samples captured using different color pallettes:
