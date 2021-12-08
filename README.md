@@ -16,4 +16,19 @@ Demo is built with following features:
 <img src="https://github.com/OptoLAB/MLX90640-Thermal-Camera-STM32-STemWin/blob/main/interpolation%20samples/IMG0.BMP" width="288"/>
 </p>
 
-- **Capturing** bimap images on SD card. Bellow are samples captured using different color pallettes:
+- **Recording** bimap images on SD card. Bellow are samples captured using different color pallettes:
+
+<p align="center">
+<img src="https://github.com/OptoLAB/MLX90640-Thermal-Camera-STM32-STemWin/blob/main/samples/IMG0.BMP" width="144"/>
+<img src="https://github.com/OptoLAB/MLX90640-Thermal-Camera-STM32-STemWin/blob/main/samples/IMG1.BMP" width="144"/>
+<img src="https://github.com/OptoLAB/MLX90640-Thermal-Camera-STM32-STemWin/blob/main/samples/IMG2.BMP" width="144"/>
+<img src="https://github.com/OptoLAB/MLX90640-Thermal-Camera-STM32-STemWin/blob/main/samples/IMG3.BMP" width="144"/>
+<img src="https://github.com/OptoLAB/MLX90640-Thermal-Camera-STM32-STemWin/blob/main/samples/IMG4.BMP" width="144"/>
+<img src="https://github.com/OptoLAB/MLX90640-Thermal-Camera-STM32-STemWin/blob/main/samples/IMG5.BMP" width="144"/>
+<img src="https://github.com/OptoLAB/MLX90640-Thermal-Camera-STM32-STemWin/blob/main/samples/IMG6.BMP" width="144"/>
+<img src="https://github.com/OptoLAB/MLX90640-Thermal-Camera-STM32-STemWin/blob/main/samples/IMG7.BMP" width="144"/>
+<img src="https://github.com/OptoLAB/MLX90640-Thermal-Camera-STM32-STemWin/blob/main/samples/IMG8.BMP" width="144"/>
+<img src="https://github.com/OptoLAB/MLX90640-Thermal-Camera-STM32-STemWin/blob/main/samples/IMG9.BMP" width="144"/>
+<img src="https://github.com/OptoLAB/MLX90640-Thermal-Camera-STM32-STemWin/blob/main/samples/IMG10.BMP" width="144"/>
+<img src="https://github.com/OptoLAB/MLX90640-Thermal-Camera-STM32-STemWin/blob/main/samples/IMG11.BMP" width="144"/>
+</p>
