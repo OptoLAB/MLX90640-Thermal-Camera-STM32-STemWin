@@ -13,7 +13,7 @@ This is a demo project for [Melexis MLX90640](https://www.melexis.com/en/product
 
 More info can be found [here](https://www.optolab.ftn.uns.ac.rs/index.php/education/project-base/260-mlx90640-thermal-camera)
 
-Demo video on [youtube](https://youtu.be/Jhh86dQYwhU) 
+Demo video on [youtube](https://youtu.be/KOCp_KNmq_Y) 
 
 ## Demo features:
 Demo is built with following features:
